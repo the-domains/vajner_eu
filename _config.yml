@@ -1,0 +1,29 @@
+name: vajner_eu
+favicon: null
+layout_spectrum: 0.43043268332257867
+typography_spectrum: 0.6253586236853153
+title: Root vajner.eu
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.19607657263986766
+  lightness: 0.4122279188595712
+  saturation: 0.3117851314600557
+  rhythmicContrast: 0.5579629614949226
+purpose: []
